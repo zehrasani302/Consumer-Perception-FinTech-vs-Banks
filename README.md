@@ -30,6 +30,13 @@ As digital financial services continue to grow, banks and FinTech companies comp
 
 ---
 
+## Dashboard Preview
+<img width="537" height="346" alt="dashboard" src="https://github.com/user-attachments/assets/72c1f5ea-b7ff-4d08-a92e-d9e7e212ed61" />
+<img width="761" height="199" alt="dashboard 1" src="https://github.com/user-attachments/assets/e472f29f-05c5-4667-982e-c073364a8b6c" />
+<img width="760" height="304" alt="dashboard 2" src="https://github.com/user-attachments/assets/d48c66ac-9306-408e-b377-df2ea356be2d" />
+
+---
+
 ## Key Insights
 
 ### Consumer Behavior
@@ -56,14 +63,8 @@ As digital financial services continue to grow, banks and FinTech companies comp
 
 ---
 
-## Dashboard Preview
-<img width="537" height="346" alt="dashboard" src="https://github.com/user-attachments/assets/72c1f5ea-b7ff-4d08-a92e-d9e7e212ed61" />
-<img width="761" height="199" alt="dashboard 1" src="https://github.com/user-attachments/assets/e472f29f-05c5-4667-982e-c073364a8b6c" />
-<img width="760" height="304" alt="dashboard 2" src="https://github.com/user-attachments/assets/d48c66ac-9306-408e-b377-df2ea356be2d" />
-
----
-
 ## Files
 
 - Fintech vs Banks.pbix
-
+- README.md
+- Dashboard screenshots
