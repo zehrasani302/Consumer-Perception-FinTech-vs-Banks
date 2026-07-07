@@ -40,15 +40,15 @@ As digital financial services continue to grow, banks and FinTech companies comp
 ## Key Insights
 
 ### Consumer Behavior
-- 49% of respondents use traditional banks for bill payments, indicating a strong opportunity for banks to retain customers.
+- **49%** of respondents use traditional banks for bill payments, indicating a strong opportunity for banks to retain customers.
 - FinTech applications were consistently rated higher for convenience, real-time transactions, and user experience.
 
 ### Security & Awareness
 - Fear of scams and security breaches remains one of the biggest barriers to FinTech adoption.
-- 61% of respondents were unaware of privacy risks associated with international payment schemes.
+- **61%** of respondents were unaware of privacy risks associated with international payment schemes.
 
 ### Local Payment Schemes
-- 82% of respondents had never heard of PayPak.
+- **82%** of respondents had never heard of PayPak.
 - Among those aware, most learned through friends, family, banks, or social media rather than advertising.
 - Awareness of PayPak benefits remained low, with many respondents only associating it with Golootlo discounts.
 
